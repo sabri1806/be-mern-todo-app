@@ -9,7 +9,7 @@ and then
  
  to test backend: Postman
  
- url request and responde for guide
+ url request and response as a guide
  
  https://www.getpostman.com/collections/a2aff33205818274a97d
  
